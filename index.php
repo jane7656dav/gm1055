@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/mcafe/");
+header("Location: https://www.tenthousandvillages.ca/");
 die();
 ?>
