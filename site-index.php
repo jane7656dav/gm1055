@@ -1,4 +1,4 @@
 <?php
-header("Location: https://stamfordnotebooks.co.uk/");
+header("Location: https://www.automaticlaundry.com/superior-service-solutions/");
 die();
 ?>
