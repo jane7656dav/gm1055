@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.automaticlaundry.com/superior-service-solutions/");
+header("Location: https://menagetotal.ca/cleaning-services/");
 die();
 ?>
