@@ -1,4 +1,4 @@
 <?php
-header("Location: https://menagetotal.ca/cleaning-services/");
+header("Location: https://actnor1.herokuapp.com/");
 die();
 ?>
